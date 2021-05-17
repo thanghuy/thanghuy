@@ -29,6 +29,10 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
+<br />
+<br />
+
+<img align="left" alt="inf" src="https://camo.githubusercontent.com/53b1a4c3005e1be7962d60a214d490221e3c5c976489ba1a13834d017b04d0b1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a7261"/>
 
 [facebook]: https://www.facebook.com/nguyenhuythang0903
 [instagram]: https://www.instagram.com/huythang8329
