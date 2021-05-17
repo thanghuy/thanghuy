@@ -3,8 +3,9 @@
 ## I'm a Developer !!
 
 ### Connect with me:
-[<img align="left" alt="huythang | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
-[<img align="left" alt="huythang | instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
+[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][facebook]
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
 
 <br />
 
