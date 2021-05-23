@@ -6,6 +6,7 @@
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][facebook]
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
+[<img alt="Twitter" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
 <br />
 
 ### Languages :
@@ -38,3 +39,4 @@
 [instagram]: https://www.instagram.com/huythang8329
 [twitter]: https://twitter.com/codeSTACKr
 [website]: https://youtube.com/codeSTACKr
+[Linkedin]: https://www.linkedin.com/in/huy-thang-57687b212
